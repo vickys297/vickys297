@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vickys297
-- 👀 I’m interested in android application development, VueJs, NodeJs
+- 👀 I’m interested in Android Development, VueJs, NodeJs
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vignesh297@gmail.com
